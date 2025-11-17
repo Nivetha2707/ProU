@@ -38,6 +38,7 @@ Background images & custom graphics
      ├── istockphoto-1095018746-612x612.jpg
      └── WhatsApp Image 2024-08-12 at 7.24.31 PM.jpeg
 
+
 ✨ Features
 
 Clean and modern UI
