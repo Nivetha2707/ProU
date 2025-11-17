@@ -1,4 +1,4 @@
-🌈 Make New Friends – Frontend Project
+<img width="1919" height="1015" alt="Screenshot 2025-11-17 150657" src="https://github.com/user-attachments/assets/b56c6a04-b11a-446a-8c9c-6e8e8cbc67f6" />🌈 Make New Friends – Frontend Project
 
 This is a simple and colorful frontend web project designed using HTML and CSS.
 
@@ -86,3 +86,10 @@ Friendly children's image at the bottom
 This project is created for learning and frontend practice.
 
 You can modify or use it for personal or educational purposes.
+
+Screenshots:
+
+![Uploading Screenshot 2025-11-17 150657.png…]()
+
+
+
